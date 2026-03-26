@@ -1,0 +1,8 @@
+flowchart TD
+    A[Evento / Trigger] --> B[Azure Function]
+    B --> C[Agent Logic]
+    C --> D[Azure OpenAI]
+    C --> E[External APIs]
+    D --> C
+    E --> C
+    C --> F[Respuesta]
