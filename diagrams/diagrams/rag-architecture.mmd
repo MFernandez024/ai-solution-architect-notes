@@ -1,0 +1,8 @@
+flowchart TD
+    A[Usuario] --> B[API Gateway]
+    B --> C[Azure Functions]
+    C --> D[Azure OpenAI - LLM]
+    C --> E[Cognitive Search]
+    E --> F[Vector Index]
+    F --> C
+    D --> B
