@@ -1,0 +1,8 @@
+flowchart TD
+    A[Cliente / App] --> B[API Management]
+    B --> C[Azure Functions]
+    C --> D[Azure OpenAI]
+    C --> E[Storage Account]
+    D --> C
+    E --> C
+    C --> B
