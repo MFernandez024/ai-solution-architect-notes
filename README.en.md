@@ -160,7 +160,3 @@ projects/         → Complete projects
 resources/        → Additional resources
 templates/        → Reusable templates
 
-Profesional contact:
-LinkedIn: 
-
-Email: matias.ai1@hotmail.com
