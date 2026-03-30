@@ -1,0 +1,260 @@
+# AI‑900 — Simulacro de Examen  
+40 preguntas estilo oficial + respuestas al final
+
+---
+
+# 📝 Preguntas
+
+## 1. ¿Qué tipo de IA permite que un sistema aprenda patrones a partir de datos?
+A) IA simbólica  
+B) Machine Learning  
+C) Redes neuronales  
+D) Computer Vision  
+
+## 2. ¿Qué tipo de ML requiere datos etiquetados?
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) Generativo  
+
+## 3. ¿Qué servicio de Azure permite entrenar modelos sin escribir código?
+A) Azure ML Designer  
+B) Azure OpenAI  
+C) Custom Vision  
+D) Vision Studio  
+
+## 4. ¿Qué servicio usarías para extraer texto de una imagen?
+A) Custom Vision  
+B) OCR (Computer Vision API)  
+C) Azure ML  
+D) Azure OpenAI  
+
+## 5. ¿Qué servicio permite crear modelos personalizados de visión?
+A) Computer Vision API  
+B) Custom Vision  
+C) Face API  
+D) Azure ML  
+
+## 6. ¿Qué servicio convierte audio en texto?
+A) Text-to-Speech  
+B) Speech-to-Text  
+C) Translator  
+D) Language Studio  
+
+## 7. ¿Qué modelo se usa para generar texto en Azure OpenAI?
+A) Embeddings  
+B) GPT  
+C) DALL·E  
+D) AutoML  
+
+## 8. ¿Qué principio de IA Responsable busca evitar sesgos?
+A) Transparencia  
+B) Equidad  
+C) Inclusión  
+D) Privacidad  
+
+## 9. ¿Qué servicio permite probar visión sin escribir código?
+A) Vision Studio  
+B) Custom Vision  
+C) Azure ML  
+D) Face API  
+
+## 10. ¿Qué tipo de ML se usa para clustering?
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) Generativo  
+
+## 11. ¿Qué servicio permite resumir documentos largos?
+A) Azure ML  
+B) Language Service  
+C) Custom Vision  
+D) Translator  
+
+## 12. ¿Qué servicio detecta emociones en rostros?
+A) Face API  
+B) Custom Vision  
+C) Computer Vision API  
+D) Azure ML  
+
+## 13. ¿Qué es inferencia?
+A) Entrenar un modelo  
+B) Ajustar hiperparámetros  
+C) Usar un modelo entrenado para predecir  
+D) Dividir datos en subconjuntos  
+
+## 14. ¿Qué servicio permite traducir texto automáticamente?
+A) Translator  
+B) Azure ML  
+C) Azure OpenAI  
+D) Speech Services  
+
+## 15. ¿Qué herramienta detecta sesgos en modelos?
+A) Face API  
+B) Responsible AI Dashboard  
+C) Custom Vision  
+D) Azure ML Designer  
+
+## 16. ¿Qué servicio permite crear chatbots avanzados?
+A) Azure ML  
+B) Azure OpenAI  
+C) Custom Vision  
+D) Translator  
+
+## 17. ¿Qué tipo de ML usa recompensas?
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) Generativo  
+
+## 18. ¿Qué servicio permite extraer entidades de un texto?
+A) Speech Services  
+B) Language Service (NER)  
+C) Azure ML  
+D) Custom Vision  
+
+## 19. ¿Qué servicio permite búsqueda semántica?
+A) GPT  
+B) Embeddings  
+C) OCR  
+D) AutoML  
+
+## 20. ¿Qué principio exige explicar cómo funciona un modelo?
+A) Equidad  
+B) Transparencia  
+C) Inclusión  
+D) Seguridad  
+
+## 21. ¿Qué servicio permite detectar objetos y su ubicación?
+A) Computer Vision API  
+B) Custom Vision (Object Detection)  
+C) Face API  
+D) Azure ML  
+
+## 22. ¿Qué servicio permite probar NLP sin código?
+A) Language Studio  
+B) Azure ML  
+C) Azure OpenAI  
+D) Translator  
+
+## 23. ¿Qué servicio convierte texto en voz?
+A) Speech-to-Text  
+B) Text-to-Speech  
+C) Translator  
+D) Azure ML  
+
+## 24. ¿Qué servicio permite reconocimiento de hablante?
+A) Face API  
+B) Speaker Recognition  
+C) Custom Vision  
+D) Azure ML  
+
+## 25. ¿Qué es un dataset?
+A) Un modelo entrenado  
+B) Un conjunto de datos  
+C) Un algoritmo  
+D) Un hiperparámetro  
+
+## 26. ¿Qué servicio genera descripciones automáticas de imágenes?
+A) Custom Vision  
+B) Computer Vision API  
+C) Azure ML  
+D) Face API  
+
+## 27. ¿Qué servicio permite entrenar modelos ML completos?
+A) Azure ML  
+B) Azure OpenAI  
+C) Custom Vision  
+D) Translator  
+
+## 28. ¿Qué principio protege datos personales?
+A) Equidad  
+B) Inclusión  
+C) Privacidad y seguridad  
+D) Transparencia  
+
+## 29. ¿Qué servicio permite análisis de sentimiento?
+A) Azure ML  
+B) Language Service  
+C) Custom Vision  
+D) Translator  
+
+## 30. ¿Qué servicio permite detectar texto manuscrito?
+A) Custom Vision  
+B) OCR  
+C) Azure ML  
+D) Face API  
+
+## 31. ¿Qué servicio permite crear un sistema RAG?
+A) GPT + embeddings  
+B) Custom Vision  
+C) Azure ML  
+D) Translator  
+
+## 32. ¿Qué es un hiperparámetro?
+A) Parámetro aprendido por el modelo  
+B) Configuración del entrenamiento  
+C) Resultado del modelo  
+D) Métrica de evaluación  
+
+## 33. ¿Qué servicio permite detectar contenido tóxico?
+A) Azure ML  
+B) Content Filters (Azure OpenAI)  
+C) Custom Vision  
+D) Face API  
+
+## 34. ¿Qué servicio permite detectar idioma de un texto?
+A) Translator  
+B) Language Service  
+C) Azure ML  
+D) Speech Services  
+
+## 35. ¿Qué tipo de ML se usa para detectar anomalías sin etiquetas?
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) Generativo  
+
+## 36. ¿Qué servicio permite gestionar datasets y experimentos?
+A) Azure ML  
+B) Custom Vision  
+C) Azure OpenAI  
+D) Translator  
+
+## 37. ¿Qué servicio permite generar imágenes?  
+*(No entra en AI‑900, pero puede aparecer como distractor)*  
+A) DALL·E  
+B) GPT  
+C) Custom Vision  
+D) Face API  
+
+## 38. ¿Qué principio exige accesibilidad?
+A) Equidad  
+B) Inclusión  
+C) Transparencia  
+D) Seguridad  
+
+## 39. ¿Qué servicio permite etiquetar imágenes automáticamente?
+A) Custom Vision  
+B) Computer Vision API  
+C) Azure ML  
+D) Face API  
+
+## 40. ¿Qué servicio permite crear pipelines de ML?
+A) Azure ML  
+B) Custom Vision  
+C) Azure OpenAI  
+D) Translator  
+
+---
+
+# ✅ Respuestas
+
+1B 2A 3A 4B 5B  
+6B 7B 8B 9A 10B  
+11B 12A 13C 14A 15B  
+16B 17C 18B 19B 20B  
+21B 22A 23B 24B 25B  
+26B 27A 28C 29B 30B  
+31A 32B 33B 34B 35B  
+36A 37A 38B 39B 40A
