@@ -1,0 +1,213 @@
+# AI‑900 — Casos Prácticos Tipo Examen  
+15 escenarios realistas con respuestas explicadas
+
+---
+
+# 🧩 Caso 1 — Clasificación de productos
+Una empresa quiere clasificar imágenes de productos en categorías como “zapatos”, “camisetas” y “pantalones”. No tienen conocimientos de ML y quieren entrenar su propio modelo.
+
+**¿Qué servicio deben usar?**  
+A) Computer Vision API  
+B) Custom Vision  
+C) Azure ML Designer  
+D) Azure OpenAI
+
+**Respuesta:** B) Custom Vision  
+**Explicación:** Permite entrenar modelos personalizados de clasificación de imágenes sin código.
+
+---
+
+# 🧩 Caso 2 — Extraer texto de facturas
+Una empresa quiere digitalizar facturas escaneadas y extraer el texto automáticamente.
+
+**¿Qué servicio deben usar?**  
+A) OCR de Computer Vision  
+B) Custom Vision  
+C) Azure OpenAI  
+D) Face API
+
+**Respuesta:** A) OCR  
+**Explicación:** OCR está diseñado para extraer texto de imágenes y documentos.
+
+---
+
+# 🧩 Caso 3 — Chatbot para atención al cliente
+Una empresa quiere crear un chatbot que responda preguntas frecuentes de forma natural.
+
+**¿Qué servicio deben usar?**  
+A) Azure ML  
+B) Azure OpenAI (GPT)  
+C) Custom Vision  
+D) Translator
+
+**Respuesta:** B) Azure OpenAI  
+**Explicación:** GPT permite generar respuestas naturales y contextuales.
+
+---
+
+# 🧩 Caso 4 — Detectar fraude en transacciones
+Un banco quiere detectar transacciones sospechosas basadas en patrones históricos.
+
+**¿Qué tipo de ML se usa?**  
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) Vision
+
+**Respuesta:** A) Supervisado  
+**Explicación:** Se entrena con ejemplos etiquetados: “fraude / no fraude”.
+
+---
+
+# 🧩 Caso 5 — Agrupar clientes por comportamiento
+Una tienda quiere segmentar clientes sin etiquetas previas.
+
+**¿Qué tipo de ML se usa?**  
+A) Supervisado  
+B) No supervisado  
+C) Refuerzo  
+D) GPT
+
+**Respuesta:** B) No supervisado  
+**Explicación:** El clustering agrupa datos sin etiquetas.
+
+---
+
+# 🧩 Caso 6 — Transcribir reuniones
+Una empresa quiere convertir audio de reuniones en texto.
+
+**¿Qué servicio deben usar?**  
+A) Speech-to-Text  
+B) Text-to-Speech  
+C) Language Studio  
+D) Azure ML
+
+**Respuesta:** A) Speech-to-Text  
+**Explicación:** Convierte audio en texto.
+
+---
+
+# 🧩 Caso 7 — Traducir documentos automáticamente
+Una empresa quiere traducir documentos del inglés al español.
+
+**¿Qué servicio deben usar?**  
+A) Translator  
+B) Azure OpenAI  
+C) Custom Vision  
+D) Azure ML
+
+**Respuesta:** A) Translator  
+**Explicación:** Servicio especializado en traducción automática.
+
+---
+
+# 🧩 Caso 8 — Detectar emociones en rostros
+Una empresa quiere analizar expresiones faciales en imágenes.
+
+**¿Qué servicio deben usar?**  
+A) Face API  
+B) Custom Vision  
+C) Computer Vision API  
+D) Azure ML
+
+**Respuesta:** A) Face API  
+**Explicación:** Detecta rostros y atributos como emociones.
+
+---
+
+# 🧩 Caso 9 — Crear un modelo sin escribir código
+Un equipo quiere entrenar un modelo ML sin programar.
+
+**¿Qué herramienta deben usar?**  
+A) Azure ML Designer  
+B) Azure ML CLI  
+C) Azure OpenAI  
+D) Custom Vision
+
+**Respuesta:** A) Azure ML Designer  
+**Explicación:** Permite entrenar modelos arrastrando y soltando módulos.
+
+---
+
+# 🧩 Caso 10 — Resumir documentos largos
+Una empresa quiere generar resúmenes automáticos de informes.
+
+**¿Qué servicio deben usar?**  
+A) Language Service (Summarization)  
+B) Custom Vision  
+C) Azure ML  
+D) Face API
+
+**Respuesta:** A) Language Service  
+**Explicación:** Tiene capacidades de resumen de texto.
+
+---
+
+# 🧩 Caso 11 — Buscar información por significado
+Una empresa quiere buscar documentos similares aunque no compartan palabras exactas.
+
+**¿Qué deben usar?**  
+A) GPT  
+B) Embeddings  
+C) OCR  
+D) AutoML
+
+**Respuesta:** B) Embeddings  
+**Explicación:** Representan significado semántico para búsquedas inteligentes.
+
+---
+
+# 🧩 Caso 12 — Evitar sesgos en un modelo
+Un equipo detecta que su modelo favorece a un grupo demográfico.
+
+**¿Qué herramienta deben usar?**  
+A) Responsible AI Dashboard  
+B) Custom Vision  
+C) Azure OpenAI  
+D) Face API
+
+**Respuesta:** A) Responsible AI Dashboard  
+**Explicación:** Permite analizar sesgos y equidad.
+
+---
+
+# 🧩 Caso 13 — Crear un sistema RAG
+Una empresa quiere que un chatbot responda usando sus propios documentos.
+
+**¿Qué necesitan?**  
+A) GPT + embeddings  
+B) Custom Vision  
+C) Azure ML Designer  
+D) Translator
+
+**Respuesta:** A) GPT + embeddings  
+**Explicación:** Embeddings para búsqueda, GPT para generar respuestas.
+
+---
+
+# 🧩 Caso 14 — Detectar objetos en un almacén
+Una empresa quiere identificar cajas y su ubicación en imágenes.
+
+**¿Qué servicio deben usar?**  
+A) Custom Vision (Object Detection)  
+B) Computer Vision API  
+C) Azure ML  
+D) Face API
+
+**Respuesta:** A) Custom Vision  
+**Explicación:** Permite entrenar modelos de detección personalizados.
+
+---
+
+# 🧩 Caso 15 — Cumplir GDPR en un proyecto de IA
+Una empresa quiere garantizar privacidad y seguridad de datos.
+
+**¿Qué principio aplica?**  
+A) Transparencia  
+B) Privacidad y seguridad  
+C) Inclusión  
+D) Equidad
+
+**Respuesta:** B) Privacidad y seguridad  
+**Explicación:** Protege datos personales y regula su uso.
+
