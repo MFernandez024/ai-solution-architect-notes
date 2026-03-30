@@ -1,0 +1,132 @@
+# AI‑900 — Plan de Estudio Oficial  
+Guía optimizada para aprobar el examen Azure AI Fundamentals
+
+---
+
+# 🎯 Objetivo del plan
+Dominar los conceptos clave del AI‑900 en el menor tiempo posible, utilizando el contenido del repositorio como material principal de estudio.
+
+Este plan está diseñado para completarse en **1 día, 2 días o 1 semana**, según tu disponibilidad.
+
+---
+
+# 🗂️ Estructura del plan
+El plan se divide en tres versiones:
+
+1. **Plan Express (1 día)** — Ideal si ya tienes base o quieres certificarte YA  
+2. **Plan Acelerado (2 días)** — El más equilibrado  
+3. **Plan Completo (7 días)** — Para estudiar con calma y retener mejor  
+
+---
+
+# ⚡ 1. Plan Express — 1 día (4–6 horas)
+
+## 🕐 Hora 1 — Módulo 1 (Introducción a la IA)
+- Leer el módulo completo  
+- Memorizar diferencias: IA vs ML vs DL  
+- Repasar casos de uso  
+
+## 🕑 Hora 2 — Módulo 2 (Machine Learning)
+- Tipos de ML  
+- Conceptos clave: dataset, features, labels, inferencia  
+- Azure ML, AutoML, Designer  
+
+## 🕒 Hora 3 — Módulo 3 (Computer Vision)
+- Clasificación vs detección vs OCR  
+- Custom Vision vs Computer Vision API  
+- Vision Studio  
+
+## 🕓 Hora 4 — Módulo 4 (NLP y Azure OpenAI)
+- Análisis de texto  
+- Speech Services  
+- GPT y embeddings  
+
+## 🕔 Hora 5 — Módulo 5 (IA Responsable)
+- Los 6 principios  
+- Responsible AI Dashboard  
+- Content filters  
+
+## 🕕 Hora 6 — Repaso final
+- Hacer todas las preguntas globales  
+- Revisar checklist final  
+- Repetir lo que no recuerdes  
+
+---
+
+# 🚀 2. Plan Acelerado — 2 días (3 horas por día)
+
+## 📅 Día 1
+### 1. Módulo 1  
+### 2. Módulo 2  
+### 3. Preguntas de ambos módulos  
+
+## 📅 Día 2
+### 1. Módulo 3  
+### 2. Módulo 4  
+### 3. Módulo 5  
+### 4. Preguntas globales + checklist  
+
+---
+
+# 📆 3. Plan Completo — 7 días (1 hora por día)
+
+## 📅 Día 1 — Módulo 1  
+- IA vs ML vs DL  
+- Casos de uso  
+- Preguntas del módulo  
+
+## 📅 Día 2 — Módulo 2  
+- Tipos de ML  
+- Conceptos clave  
+- Azure ML  
+- Preguntas del módulo  
+
+## 📅 Día 3 — Módulo 3  
+- Clasificación, detección, OCR  
+- Custom Vision  
+- Preguntas del módulo  
+
+## 📅 Día 4 — Módulo 4  
+- NLP  
+- Speech Services  
+- Azure OpenAI  
+- Preguntas del módulo  
+
+## 📅 Día 5 — Módulo 5  
+- Los 6 principios  
+- Herramientas de IA Responsable  
+- Preguntas del módulo  
+
+## 📅 Día 6 — Repaso global  
+- Releer resúmenes  
+- Hacer preguntas globales  
+
+## 📅 Día 7 — Simulacro  
+- Hacer un simulacro completo  
+- Revisar errores  
+
+---
+
+# 🧠 Consejos para memorizar rápido
+
+- Explica cada módulo en voz alta en 30 segundos  
+- Relaciona cada servicio con un caso real  
+- No memorices definiciones: entiende el propósito  
+- Repite las preguntas tipo examen hasta que no falles ninguna  
+
+---
+
+# 🏁 ¿Cuándo estás listo para el examen?
+
+Marca este checklist:
+
+- [ ] Puedo explicar IA, ML y DL  
+- [ ] Distingo los tipos de ML  
+- [ ] Sé qué servicio de Azure usar en cada caso  
+- [ ] Entiendo clasificación vs detección vs OCR  
+- [ ] Sé qué hace Azure OpenAI  
+- [ ] Conozco los 6 principios de IA Responsable  
+- [ ] Respondo correctamente las preguntas globales  
+
+Si todo está marcado → **estás listo para aprobar**.
+
