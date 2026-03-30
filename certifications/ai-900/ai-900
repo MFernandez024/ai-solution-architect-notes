@@ -477,6 +477,169 @@ Especializada en análisis facial:
 
 # 6. Módulo 4 — NLP y Azure OpenAI
 
+ # 6. Módulo 4 — NLP y Azure OpenAI
+
+## 📌 ¿Qué es el Procesamiento de Lenguaje Natural (NLP)?
+
+El NLP permite que las máquinas **comprendan, interpreten y generen lenguaje humano**.
+
+Incluye tareas como:
+
+- Análisis de sentimiento  
+- Traducción automática  
+- Resumen de texto  
+- Extracción de información  
+- Reconocimiento de voz  
+- Generación de texto  
+
+---
+
+## 🧠 Capacidades principales del NLP
+
+### ✔️ Análisis de texto
+Extrae información clave:
+
+- Sentimiento  
+- Palabras clave  
+- Entidades (personas, lugares, organizaciones)  
+- Lenguaje del texto  
+
+---
+
+### ✔️ Traducción automática
+Convierte texto de un idioma a otro.
+
+Ejemplos:
+- Traducir documentos  
+- Localización de contenido  
+
+---
+
+### ✔️ Reconocimiento de voz (Speech-to-Text)
+Convierte audio en texto.
+
+Ejemplos:
+- Transcripción de reuniones  
+- Subtítulos automáticos  
+
+---
+
+### ✔️ Síntesis de voz (Text-to-Speech)
+Convierte texto en audio.
+
+Ejemplos:
+- Lectores automáticos  
+- Asistentes virtuales  
+
+---
+
+### ✔️ Chatbots y asistentes
+Permiten conversaciones naturales con usuarios.
+
+Ejemplos:
+- Atención al cliente  
+- Soporte técnico  
+- Automatización de consultas  
+
+---
+
+## 🤖 Azure OpenAI: Modelos generativos
+
+Azure OpenAI proporciona modelos avanzados como:
+
+- **GPT** (generación de texto, chat, razonamiento)  
+- **Embeddings** (búsqueda semántica, RAG)  
+- **DALL·E** (imágenes, *no entra en AI‑900 pero lo mencionamos*)  
+
+Estos modelos permiten:
+
+- Generar texto  
+- Resumir documentos  
+- Crear chatbots inteligentes  
+- Clasificar contenido  
+- Extraer información  
+- Crear sistemas RAG  
+
+---
+
+## 🧩 Servicios de Azure para NLP
+
+### **1. Language Studio**
+Interfaz visual para probar capacidades de NLP sin código.
+
+Permite:
+- Análisis de sentimiento  
+- Extracción de entidades  
+- Traducción  
+- Resumen de texto  
+
+---
+
+### **2. Azure Cognitive Services — Language**
+API para tareas de NLP tradicionales:
+
+- Key Phrases  
+- Named Entity Recognition  
+- Sentiment Analysis  
+- Language Detection  
+
+---
+
+### **3. Azure Speech Services**
+Incluye:
+
+- Speech-to-Text  
+- Text-to-Speech  
+- Speaker Recognition  
+
+---
+
+### **4. Azure OpenAI Service**
+Modelos generativos avanzados:
+
+- Chat completions  
+- Embeddings  
+- Funciones de razonamiento  
+- Generación de contenido  
+
+---
+
+## 🧪 Ejemplos de uso en Azure
+
+### Ejemplo 1 — Análisis de sentimiento
+- Enviar texto a Language Studio  
+- Recibir sentimiento: positivo, negativo o neutral  
+
+### Ejemplo 2 — Chatbot con Azure OpenAI
+- Crear un deployment de GPT  
+- Enviar prompts  
+- Recibir respuestas generadas  
+
+### Ejemplo 3 — Búsqueda semántica con embeddings
+- Convertir texto en vectores  
+- Comparar similitud  
+- Construir un sistema RAG  
+
+---
+
+## 📝 Preguntas tipo examen (Módulo 4)
+
+1. ¿Qué servicio de Azure permite análisis de sentimiento?  
+2. ¿Qué servicio convierte audio en texto?  
+3. ¿Qué servicio permite probar NLP sin escribir código?  
+4. ¿Qué modelo se usa para generar texto en Azure OpenAI?  
+5. ¿Qué son los embeddings y para qué sirven?  
+
+---
+
+## ✔️ Resumen del módulo
+
+- NLP permite que las máquinas comprendan y generen lenguaje humano  
+- Azure ofrece Language Studio, Speech Services y Azure OpenAI  
+- GPT permite generación de texto, chat y razonamiento  
+- Embeddings permiten búsqueda semántica y RAG  
+- Speech Services cubre reconocimiento y síntesis de voz  
+
 ### Capacidades
 - Análisis de texto  
 - Traducción  
