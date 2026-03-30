@@ -656,6 +656,154 @@ Modelos generativos avanzados:
 
 # 7. Módulo 5 — IA Responsable
 
+# 7. Módulo 5 — IA Responsable
+
+## 📌 ¿Qué es la IA Responsable?
+
+La IA Responsable es el conjunto de principios, prácticas y herramientas que garantizan que los sistemas de IA sean **seguros, justos, transparentes y confiables**.
+
+Microsoft define 6 principios fundamentales que deben guiar cualquier solución de IA.
+
+---
+
+## 🧭 Los 6 principios de la IA Responsable
+
+### ✔️ 1. Equidad (Fairness)
+La IA debe tratar a todas las personas por igual y evitar sesgos.
+
+Ejemplos:
+- Evitar que un modelo favorezca a un grupo demográfico  
+- Revisar datasets para detectar sesgos  
+
+---
+
+### ✔️ 2. Fiabilidad y seguridad (Reliability & Safety)
+Los sistemas deben funcionar correctamente y de forma segura.
+
+Ejemplos:
+- Modelos robustos ante datos inesperados  
+- Validación continua  
+- Pruebas antes de desplegar  
+
+---
+
+### ✔️ 3. Privacidad y seguridad (Privacy & Security)
+La IA debe proteger los datos de los usuarios.
+
+Ejemplos:
+- Cumplir GDPR  
+- Minimizar datos sensibles  
+- Cifrado en tránsito y en reposo  
+
+---
+
+### ✔️ 4. Inclusión (Inclusiveness)
+La IA debe ser accesible y beneficiar a todos.
+
+Ejemplos:
+- Interfaces accesibles  
+- Modelos que funcionen para personas con discapacidades  
+
+---
+
+### ✔️ 5. Transparencia (Transparency)
+Los usuarios deben entender cómo funciona la IA.
+
+Ejemplos:
+- Explicar por qué un modelo tomó una decisión  
+- Documentar datasets y modelos  
+
+---
+
+### ✔️ 6. Responsabilidad (Accountability)
+Las organizaciones deben asumir responsabilidad por sus sistemas de IA.
+
+Ejemplos:
+- Auditorías internas  
+- Revisiones éticas  
+- Supervisión humana  
+
+---
+
+## 🧩 Herramientas de Azure para IA Responsable
+
+### **1. Responsible AI Dashboard**
+Permite analizar:
+
+- Sesgos  
+- Interpretabilidad  
+- Métricas de equidad  
+- Errores del modelo  
+
+Ideal para validar modelos antes de producción.
+
+---
+
+### **2. Interpretability Tools**
+Ayudan a entender cómo un modelo toma decisiones.
+
+Incluye:
+- SHAP values  
+- Feature importance  
+- Explicaciones locales y globales  
+
+---
+
+### **3. Content Filters (Azure OpenAI)**
+Protegen contra:
+
+- Contenido tóxico  
+- Violencia  
+- Discriminación  
+- Información sensible  
+
+Son obligatorios en cualquier solución con modelos generativos.
+
+---
+
+### **4. Data Governance (Purview / Fabric)**
+Permite:
+
+- Clasificar datos  
+- Controlar acceso  
+- Trazabilidad de datasets  
+
+---
+
+## 🧪 Ejemplos de IA Responsable en acción
+
+### Ejemplo 1 — Evitar sesgos en un modelo de clasificación
+- Revisar dataset  
+- Evaluar métricas por grupo demográfico  
+- Ajustar el modelo  
+
+### Ejemplo 2 — Explicar decisiones de un modelo
+- Usar SHAP para ver qué variables influyen  
+- Mostrar explicaciones al usuario final  
+
+### Ejemplo 3 — Filtrar contenido en un chatbot
+- Activar content filters en Azure OpenAI  
+- Definir políticas de seguridad  
+
+---
+
+## 📝 Preguntas tipo examen (Módulo 5)
+
+1. ¿Qué principio busca evitar sesgos en los modelos?  
+2. ¿Qué herramienta permite analizar interpretabilidad?  
+3. ¿Qué principio exige explicar cómo funciona un modelo?  
+4. ¿Qué servicio protege contra contenido tóxico en Azure OpenAI?  
+5. ¿Qué principio se relaciona con cumplir GDPR?  
+
+---
+
+## ✔️ Resumen del módulo
+
+- La IA Responsable garantiza sistemas justos, seguros y confiables  
+- Microsoft define 6 principios clave  
+- Azure ofrece herramientas como Responsible AI Dashboard y content filters  
+- La transparencia y la supervisión humana son esenciales  
+
 ### Principios
 - Equidad  
 - Fiabilidad  
