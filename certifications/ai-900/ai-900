@@ -45,7 +45,8 @@ El examen evalúa tu capacidad para:
 
 ## 📌 ¿Qué es la Inteligencia Artificial?
 
-La Inteligencia Artificial (IA) es la capacidad de una máquina para realizar tareas que normalmente requieren inteligencia humana, como:
+La Inteligencia Artificial (IA) es la capacidad de una máquina para realizar tareas
+que normalmente requieren inteligencia humana, como:
 
 - Reconocer patrones  
 - Tomar decisiones  
@@ -70,11 +71,11 @@ Subconjunto del ML basado en redes neuronales profundas
 
 ### Diferencias clave
 
-| Concepto | Qué es | Ejemplo |
-|---------|--------|---------|
-| **IA** | Cualquier sistema que imita inteligencia humana | Chatbots, visión artificial |
-| **ML** | Modelos que aprenden de datos | Clasificar correos spam/no spam |
-| **DL** | Redes neuronales profundas | Reconocimiento facial |
+| Concepto | Qué es                                           | Ejemplo |
+
+| **IA**   | Cualquier sistema que imita inteligencia humana  | Chatbots, visión artificial (computer vision)|
+| **ML**   | Modelos que aprenden de datos                    | Clasificar correos spam/no spam |
+| **DL**   | Redes neuronales profundas                       | Reconocimiento facial |
 
 ---
 
@@ -84,7 +85,7 @@ Subconjunto del ML basado en redes neuronales profundas
 - Predicción  
 - Detección de anomalías  
 - Procesamiento de lenguaje natural  
-- Visión por computadora  
+- Visión por computadora  / (computer vision)
 - Generación de contenido (texto, imágenes, audio)  
 
 ---
@@ -175,7 +176,8 @@ Modelos generativos:
 
 ## 📌 ¿Qué es el Machine Learning?
 
-Machine Learning (ML) es una rama de la IA que permite a los sistemas aprender patrones a partir de datos sin ser programados explícitamente.
+Machine Learning (ML) es una rama de la IA que permite a los sistemas aprender patrones a partir de datos
+sin ser programados explícitamente.
 
 El objetivo principal es **hacer predicciones o clasificaciones** basadas en ejemplos previos.
 
@@ -242,12 +244,12 @@ Juegos (ajedrez, Go, videojuegos)
 
 🧩 Conceptos clave del ML
 Concepto	           Descripción
-Dataset	             Conjunto de datos usados para entrenar
+Dataset	           Conjunto de datos usados para entrenar
 Features	           Variables de entrada
-Label	               Resultado esperado (solo en supervisado)
-Entrenamiento	       Proceso de aprendizaje del modelo
-Validación	         Ajuste de hiperparámetros
-Inferencia	         Uso del modelo ya entrenado
+Label	                 Resultado esperado (solo en supervisado)
+Entrenamiento	     Proceso de aprendizaje del modelo
+Validación	           Ajuste de hiperparámetros
+Inferencia	           Uso del modelo ya entrenado
 
 🏗️ Servicios de Azure para Machine Learning
 Azure Machine Learning
@@ -321,11 +323,10 @@ AutoML y Designer permiten entrenar sin código
 
 # 5. Módulo 3 — Computer Vision
 
-# 5. Módulo 3 — Computer Vision
-
 ## 📌 ¿Qué es Computer Vision?
 
-Computer Vision es un campo de la IA que permite a las máquinas **interpretar y comprender imágenes y videos**, imitando la capacidad visual humana.
+Computer Vision es un campo de la IA que permite a las máquinas **interpretar y comprender imágenes y videos**,
+imitando la capacidad visual humana.
 
 Permite:
 
@@ -656,11 +657,10 @@ Modelos generativos avanzados:
 
 # 7. Módulo 5 — IA Responsable
 
-# 7. Módulo 5 — IA Responsable
-
 ## 📌 ¿Qué es la IA Responsable?
 
-La IA Responsable es el conjunto de principios, prácticas y herramientas que garantizan que los sistemas de IA sean **seguros, justos, transparentes y confiables**.
+La IA Responsable es el conjunto de principios, prácticas y herramientas que garantizan que los sistemas de IA sean
+**seguros, justos, transparentes y confiables**.
 
 Microsoft define 6 principios fundamentales que deben guiar cualquier solución de IA.
 
