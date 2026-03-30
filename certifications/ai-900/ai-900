@@ -321,6 +321,147 @@ AutoML y Designer permiten entrenar sin código
 
 # 5. Módulo 3 — Computer Vision
 
+# 5. Módulo 3 — Computer Vision
+
+## 📌 ¿Qué es Computer Vision?
+
+Computer Vision es un campo de la IA que permite a las máquinas **interpretar y comprender imágenes y videos**, imitando la capacidad visual humana.
+
+Permite:
+
+- Identificar objetos  
+- Analizar escenas  
+- Extraer texto  
+- Detectar rostros  
+- Clasificar imágenes  
+
+---
+
+## 🧠 Capacidades principales de Computer Vision
+
+### ✔️ Clasificación de imágenes
+Determina **qué hay en una imagen**.
+
+Ejemplos:
+- “Esto es un perro”  
+- “Esto es una radiografía normal/anómala”  
+
+---
+
+### ✔️ Detección de objetos
+Identifica **qué objetos hay** y **dónde están**.
+
+Ejemplos:
+- Detectar coches en una carretera  
+- Detectar productos en una estantería  
+
+---
+
+### ✔️ OCR (Reconocimiento Óptico de Caracteres)
+Extrae texto de imágenes o documentos escaneados.
+
+Ejemplos:
+- Leer matrículas  
+- Digitalizar facturas  
+- Extraer texto de fotos  
+
+---
+
+### ✔️ Análisis facial
+Detecta rostros y atributos (edad aproximada, emociones, etc.).
+
+Ejemplos:
+- Control de acceso  
+- Análisis de atención en retail  
+
+---
+
+### ✔️ Segmentación de imágenes
+Divide una imagen en regiones significativas.
+
+Ejemplos:
+- Segmentar órganos en imágenes médicas  
+- Separar fondo y objeto  
+
+---
+
+## 🧩 Servicios de Azure para Computer Vision
+
+### **1. Azure Vision Studio**
+Interfaz visual para probar capacidades de visión sin escribir código.
+
+Permite:
+- Clasificación  
+- OCR  
+- Detección de objetos  
+- Análisis de imágenes  
+
+---
+
+### **2. Computer Vision API**
+API preentrenada para tareas como:
+
+- OCR  
+- Descripción automática de imágenes  
+- Detección de rostros  
+- Etiquetado de contenido  
+
+Ideal para soluciones rápidas sin entrenar modelos.
+
+---
+
+### **3. Custom Vision**
+Permite **entrenar modelos personalizados** de clasificación o detección.
+
+Dos modos:
+- **Classification** → “¿Qué es esto?”  
+- **Object Detection** → “¿Qué es y dónde está?”  
+
+Ideal cuando los modelos preentrenados no son suficientes.
+
+---
+
+### **4. Face API**
+Especializada en análisis facial:
+
+- Detección de rostros  
+- Atributos (edad, emoción, etc.)  
+- Reconocimiento facial (según políticas vigentes)  
+
+---
+
+## 🧪 Ejemplos de uso en Azure
+
+### Ejemplo 1 — OCR con Vision Studio
+- Subes una imagen  
+- El servicio extrae texto  
+- Devuelve JSON con el contenido  
+
+### Ejemplo 2 — Clasificación personalizada con Custom Vision
+- Subes imágenes etiquetadas  
+- Entrenas un modelo  
+- Exportas el modelo o lo usas vía API  
+
+---
+
+## 📝 Preguntas tipo examen (Módulo 3)
+
+1. ¿Qué servicio de Azure permite entrenar modelos personalizados de visión?  
+2. ¿Qué servicio usarías para extraer texto de una imagen?  
+3. ¿Qué servicio permite probar visión sin escribir código?  
+4. ¿Qué diferencia hay entre clasificación y detección de objetos?  
+5. ¿Qué servicio está especializado en análisis facial?  
+
+---
+
+## ✔️ Resumen del módulo
+
+- Computer Vision permite interpretar imágenes y videos  
+- Azure ofrece Vision Studio, Computer Vision API, Custom Vision y Face API  
+- Custom Vision permite entrenar modelos personalizados  
+- OCR, clasificación y detección de objetos son capacidades clave  
+
+
 ### Capacidades
 - Clasificación de imágenes  
 - Detección de objetos  
