@@ -1,0 +1,186 @@
+# AI‑900 — Flashcards de Estudio  
+Tarjetas de memorización rápida para Azure AI Fundamentals
+
+---
+
+# 🧠 Módulo 1 — Introducción a la IA
+
+**Flashcard 1**  
+**Q:** ¿Qué es IA?  
+**A:** Sistemas que imitan inteligencia humana.
+
+**Flashcard 2**  
+**Q:** ¿Qué es Machine Learning?  
+**A:** Técnica de IA que aprende patrones a partir de datos.
+
+**Flashcard 3**  
+**Q:** ¿Qué es Deep Learning?  
+**A:** Subconjunto del ML basado en redes neuronales profundas.
+
+**Flashcard 4**  
+**Q:** ¿Qué diferencia hay entre IA y ML?  
+**A:** IA es el concepto general; ML es una técnica dentro de la IA.
+
+**Flashcard 5**  
+**Q:** ¿Qué servicio de Azure ofrece IA lista para usar?  
+**A:** Azure AI Services.
+
+---
+
+# 🤖 Módulo 2 — Machine Learning
+
+**Flashcard 6**  
+**Q:** ¿Qué tipo de ML usa datos etiquetados?  
+**A:** Supervisado.
+
+**Flashcard 7**  
+**Q:** ¿Qué tipo de ML no usa etiquetas?  
+**A:** No supervisado.
+
+**Flashcard 8**  
+**Q:** ¿Qué tipo de ML usa recompensas?  
+**A:** Aprendizaje por refuerzo.
+
+**Flashcard 9**  
+**Q:** ¿Qué es una feature?  
+**A:** Variable de entrada.
+
+**Flashcard 10**  
+**Q:** ¿Qué es una label?  
+**A:** Resultado esperado.
+
+**Flashcard 11**  
+**Q:** ¿Qué es inferencia?  
+**A:** Usar un modelo ya entrenado para predecir.
+
+**Flashcard 12**  
+**Q:** ¿Qué servicio automatiza el entrenamiento?  
+**A:** AutoML.
+
+**Flashcard 13**  
+**Q:** ¿Qué herramienta permite entrenar sin código?  
+**A:** Azure ML Designer.
+
+---
+
+# 👁️ Módulo 3 — Computer Vision
+
+**Flashcard 14**  
+**Q:** ¿Clasificación vs detección?  
+**A:** Clasificación = qué es; detección = qué es y dónde está.
+
+**Flashcard 15**  
+**Q:** ¿Qué servicio entrena modelos personalizados de visión?  
+**A:** Custom Vision.
+
+**Flashcard 16**  
+**Q:** ¿Qué servicio hace OCR?  
+**A:** Computer Vision API.
+
+**Flashcard 17**  
+**Q:** ¿Qué servicio detecta emociones y rostros?  
+**A:** Face API.
+
+**Flashcard 18**  
+**Q:** ¿Qué servicio permite probar visión sin código?  
+**A:** Vision Studio.
+
+---
+
+# 🗣️ Módulo 4 — NLP y Azure OpenAI
+
+**Flashcard 19**  
+**Q:** ¿Qué servicio analiza sentimiento?  
+**A:** Language Service.
+
+**Flashcard 20**  
+**Q:** ¿Qué servicio convierte audio en texto?  
+**A:** Speech-to-Text.
+
+**Flashcard 21**  
+**Q:** ¿Qué servicio convierte texto en voz?  
+**A:** Text-to-Speech.
+
+**Flashcard 22**  
+**Q:** ¿Qué servicio permite probar NLP sin código?  
+**A:** Language Studio.
+
+**Flashcard 23**  
+**Q:** ¿Qué modelo genera texto en Azure OpenAI?  
+**A:** GPT.
+
+**Flashcard 24**  
+**Q:** ¿Qué son los embeddings?  
+**A:** Vectores que representan significado.
+
+**Flashcard 25**  
+**Q:** ¿Para qué sirven los embeddings?  
+**A:** Búsqueda semántica y RAG.
+
+---
+
+# 🛡️ Módulo 5 — IA Responsable
+
+**Flashcard 26**  
+**Q:** ¿Qué principio evita sesgos?  
+**A:** Equidad.
+
+**Flashcard 27**  
+**Q:** ¿Qué principio exige explicar decisiones?  
+**A:** Transparencia.
+
+**Flashcard 28**  
+**Q:** ¿Qué principio protege datos personales?  
+**A:** Privacidad y seguridad.
+
+**Flashcard 29**  
+**Q:** ¿Qué principio promueve accesibilidad?  
+**A:** Inclusión.
+
+**Flashcard 30**  
+**Q:** ¿Qué herramienta detecta sesgos?  
+**A:** Responsible AI Dashboard.
+
+**Flashcard 31**  
+**Q:** ¿Qué herramienta explica modelos?  
+**A:** Interpretability tools (SHAP).
+
+**Flashcard 32**  
+**Q:** ¿Qué protege contra contenido tóxico?  
+**A:** Content Filters de Azure OpenAI.
+
+---
+
+# 🎯 Flashcards globales (repaso final)
+
+**Flashcard 33**  
+**Q:** ¿Qué servicio usarías para entrenar un modelo sin código?  
+**A:** Azure ML Designer.
+
+**Flashcard 34**  
+**Q:** ¿Qué servicio usarías para detectar objetos?  
+**A:** Custom Vision (Object Detection).
+
+**Flashcard 35**  
+**Q:** ¿Qué servicio usarías para traducir texto?  
+**A:** Translator.
+
+**Flashcard 36**  
+**Q:** ¿Qué servicio usarías para resumir documentos?  
+**A:** Language Service (Summarization).
+
+**Flashcard 37**  
+**Q:** ¿Qué servicio usarías para crear un chatbot avanzado?  
+**A:** Azure OpenAI (GPT).
+
+**Flashcard 38**  
+**Q:** ¿Qué servicio usarías para extraer texto de imágenes?  
+**A:** OCR (Computer Vision API).
+
+**Flashcard 39**  
+**Q:** ¿Qué servicio usarías para búsqueda semántica?  
+**A:** Embeddings.
+
+**Flashcard 40**  
+**Q:** ¿Qué principio exige supervisión humana?  
+**A:** Responsabilidad.
