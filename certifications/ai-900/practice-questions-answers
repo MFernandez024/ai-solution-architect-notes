@@ -1,0 +1,94 @@
+# AI‑900 — Respuestas Explicadas  
+Respuestas completas a las 60 preguntas adicionales
+
+---
+
+# 🧠 Módulo 1 — Introducción a la IA
+
+1. **IA es el concepto general; ML es una técnica dentro de la IA.**  
+2. **IA simbólica o basada en reglas.** No aprende de datos, imita razonamiento.  
+3. **Un modelo ya entrenado que puedes usar sin entrenarlo tú.**  
+4. **Algoritmo = proceso; modelo = resultado del entrenamiento.**  
+5. **Modelos generativos (GPT).**  
+6. **Azure AI Services.**  
+7. **Un problema real donde la IA aporta valor.**  
+8. **IA débil = tareas específicas; IA fuerte = inteligencia general (no existe aún).**  
+9. **Capacidad de funcionar bien con datos nuevos.**  
+10. **Azure OpenAI Service.**
+
+---
+
+# 🤖 Módulo 2 — Machine Learning
+
+11. **Supervisado.**  
+12. **No supervisado.**  
+13. **Aprendizaje por refuerzo.**  
+14. **Conjunto de datos usado para entrenar.**  
+15. **Variables de entrada.**  
+16. **Salida esperada (solo en supervisado).**  
+17. **Proceso donde el modelo aprende patrones.**  
+18. **Uso del modelo ya entrenado para predecir.**  
+19. **Parámetros que controlan el entrenamiento (no los aprende el modelo).**  
+20. **AutoML.**  
+21. **Azure ML Designer.**  
+22. **El modelo memoriza demasiado y no generaliza.**  
+23. **El modelo aprende poco y rinde mal.**  
+24. **Técnica para evaluar modelos usando particiones del dataset.**  
+25. **Azure Machine Learning.**
+
+---
+
+# 👁️ Módulo 3 — Computer Vision
+
+26. **Clasificación = qué es; detección = qué es y dónde está.**  
+27. **Custom Vision.**  
+28. **Computer Vision API (OCR).**  
+29. **Vision Studio.**  
+30. **Reconocimiento óptico de caracteres.**  
+31. **Dividir la imagen en regiones significativas.**  
+32. **Face API.**  
+33. **Computer Vision API = preentrenado; Custom Vision = personalizado.**  
+34. **Modelo de detección de objetos.**  
+35. **Computer Vision API (Image Analysis).**
+
+---
+
+# 🗣️ Módulo 4 — NLP y Azure OpenAI
+
+36. **Language Service (Sentiment Analysis).**  
+37. **Speech-to-Text (Speech Services).**  
+38. **Text-to-Speech (Speech Services).**  
+39. **Language Studio.**  
+40. **GPT.**  
+41. **Vectores que representan significado para búsqueda semántica.**  
+42. **Encontrar texto similar por significado, no por palabras exactas.**  
+43. **Translator (Azure Cognitive Services).**  
+44. **Speaker Recognition (Speech Services).**  
+45. **GPT genera texto; embeddings representan significado.**  
+46. **Instrucción o entrada que guía al modelo.**  
+47. **Sistema que combina embeddings + modelo generativo para responder con contexto.**  
+48. **Language Service (Summarization).**  
+49. **Language Service (NER).**  
+50. **Azure OpenAI Service.**
+
+---
+
+# 🛡️ Módulo 5 — IA Responsable
+
+51. **Equidad (Fairness).**  
+52. **Transparencia.**  
+53. **Inclusión.**  
+54. **Privacidad y seguridad.**  
+55. **Interpretability tools (SHAP, etc.).**  
+56. **Responsible AI Dashboard.**  
+57. **Content Filters de Azure OpenAI.**  
+58. **Humano supervisa decisiones críticas del modelo.**  
+59. **Explicar cómo funciona y cómo decide la IA.**  
+60. **Responsabilidad (Accountability).**
+
+---
+
+# 🎯 Cómo usar estas respuestas
+- Repasa primero las preguntas sin mirar  
+- Luego revisa estas explicaciones  
+- Repite hasta que puedas responderlas todas de memoria  
