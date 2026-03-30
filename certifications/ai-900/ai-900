@@ -818,14 +818,110 @@ Permite:
 
 ---
 
-# 8. Preguntas tipo examen
+# 8. Cierre del AI‑900 — Repaso final, checklist y preguntas globales
+
+## 📌 Repaso general del examen
+
+El AI‑900 evalúa tu comprensión de:
+
+- Conceptos básicos de IA  
+- Tipos de Machine Learning  
+- Capacidades de Computer Vision  
+- Capacidades de NLP  
+- Servicios de Azure relacionados  
+- Principios de IA Responsable  
+
+Es un examen conceptual, no técnico. No necesitas programar, solo entender **qué hace cada servicio y cuándo usarlo**.
+
+---
+
+# 🧠 Resumen global de los módulos
+
+## ✔️ Módulo 1 — Introducción a la IA
+- IA es un conjunto de técnicas para imitar inteligencia humana  
+- ML y DL son subconjuntos de la IA  
+- Azure ofrece servicios preconstruidos (AI Services) y avanzados (Azure ML, Azure OpenAI)  
+
+## ✔️ Módulo 2 — Machine Learning
+- Tres tipos: supervisado, no supervisado y refuerzo  
+- Conceptos clave: dataset, features, labels, entrenamiento, inferencia  
+- Azure ML, AutoML y Designer permiten entrenar modelos  
+
+## ✔️ Módulo 3 — Computer Vision
+- Capacidades: clasificación, detección, OCR, análisis facial  
+- Servicios: Vision Studio, Computer Vision API, Custom Vision, Face API  
+
+## ✔️ Módulo 4 — NLP y Azure OpenAI
+- Capacidades: análisis de texto, traducción, voz, chatbots  
+- Servicios: Language Studio, Speech Services, Azure OpenAI  
+- GPT y embeddings permiten generación y búsqueda semántica  
+
+## ✔️ Módulo 5 — IA Responsable
+- 6 principios: equidad, fiabilidad, privacidad, inclusión, transparencia, responsabilidad  
+- Herramientas: Responsible AI Dashboard, interpretabilidad, content filters  
+
+---
+
+# 📝 Preguntas globales tipo examen
+
+1. ¿Qué servicio usarías para entrenar un modelo sin escribir código?  
+2. ¿Qué tipo de ML se usa para detectar patrones sin etiquetas?  
+3. ¿Qué servicio permite extraer texto de una imagen?  
+4. ¿Qué modelo se usa para generar texto en Azure OpenAI?  
+5. ¿Qué principio de IA Responsable busca evitar sesgos?  
+6. ¿Qué servicio convierte audio en texto?  
+7. ¿Qué servicio permite probar visión sin código?  
+8. ¿Qué es la inferencia en ML?  
+9. ¿Qué servicio permite entrenar modelos personalizados de visión?  
+10. ¿Qué herramienta ayuda a analizar interpretabilidad?  
+
+---
+
+# 📋 Checklist final — ¿Estoy listo para el examen?
+
+### Conceptos de IA
+- [ ] Entiendo la diferencia entre IA, ML y DL  
+- [ ] Conozco casos de uso comunes  
+
+### Machine Learning
+- [ ] Distingo supervisado, no supervisado y refuerzo  
+- [ ] Conozco conceptos clave (dataset, features, labels, inferencia)  
+- [ ] Sé qué hace Azure ML, AutoML y Designer  
+
+### Computer Vision
+- [ ] Sé diferenciar clasificación, detección y OCR  
+- [ ] Conozco Vision Studio, Computer Vision API y Custom Vision  
+
+### NLP y Azure OpenAI
+- [ ] Entiendo análisis de texto, traducción y voz  
+- [ ] Sé qué hace Azure OpenAI y qué son los embeddings  
+- [ ] Conozco Language Studio y Speech Services  
+
+### IA Responsable
+- [ ] Conozco los 6 principios  
+- [ ] Sé qué herramientas ofrece Azure para IA Responsable  
+
+### Preparación general
+- [ ] He repasado preguntas tipo examen  
+- [ ] He leído todos los módulos  
+- [ ] Puedo explicar cada servicio en una frase  
+
+---
+
+# 🎯 Conclusión final
+
+Si has marcado la mayoría de los puntos del checklist, estás **listo para aprobar el AI‑900**.  
+Este documento te sirve como:
+
+- Guía de estudio  
+- Resumen rápido  
+- Material de repaso  
+- Parte de tu portfolio profesional  
 
 1. ¿Qué tipo de ML se usa para clasificar correos como spam/no spam?  
 2. ¿Qué servicio de Azure permite entrenar modelos sin escribir código?  
 3. ¿Qué servicio usarías para OCR?  
 4. ¿Qué principio de IA responsable se relaciona con evitar sesgos?  
-
-*(Añadirás más mientras estudias)*
 
 ---
 
