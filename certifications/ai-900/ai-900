@@ -173,6 +173,134 @@ Modelos generativos:
 
 # 4. Módulo 2 — Machine Learning
 
+## 📌 ¿Qué es el Machine Learning?
+
+Machine Learning (ML) es una rama de la IA que permite a los sistemas aprender patrones a partir de datos sin ser programados explícitamente.
+
+El objetivo principal es **hacer predicciones o clasificaciones** basadas en ejemplos previos.
+
+---
+
+## 🧠 Tipos de Machine Learning
+
+```text
+ML
+│
+├── Aprendizaje supervisado
+│     Entrena con datos etiquetados
+│
+├── Aprendizaje no supervisado
+│     Encuentra patrones sin etiquetas
+│
+└── Aprendizaje por refuerzo
+      Aprende mediante recompensas y penalizaciones
+
+✔️ Aprendizaje supervisado
+Características
+Usa datos etiquetados
+
+El modelo aprende la relación entrada → salida
+
+Ideal para predicción y clasificación
+
+Ejemplos
+Clasificar correos como spam/no spam
+
+Predecir el precio de una casa
+
+Diagnóstico médico asistido
+
+✔️ Aprendizaje no supervisado
+Características
+No hay etiquetas
+
+El modelo descubre patrones ocultos
+
+Ideal para segmentación
+
+Ejemplos
+Agrupar clientes por comportamiento
+
+Detectar anomalías en transacciones
+
+Clustering de documentos
+
+✔️ Aprendizaje por refuerzo
+Características
+El agente aprende mediante recompensas
+
+Toma decisiones en un entorno
+
+Ideal para optimización y control
+
+Ejemplos
+Robots que aprenden a caminar
+
+Sistemas de recomendación adaptativos
+
+Juegos (ajedrez, Go, videojuegos)
+
+🧩 Conceptos clave del ML
+Concepto	           Descripción
+Dataset	             Conjunto de datos usados para entrenar
+Features	           Variables de entrada
+Label	               Resultado esperado (solo en supervisado)
+Entrenamiento	       Proceso de aprendizaje del modelo
+Validación	         Ajuste de hiperparámetros
+Inferencia	         Uso del modelo ya entrenado
+
+🏗️ Servicios de Azure para Machine Learning
+Azure Machine Learning
+Plataforma completa para:
+
+Entrenar modelos
+
+Automatizar ML (AutoML)
+
+Gestionar datasets
+
+Versionar modelos
+
+Desplegar endpoints
+
+Automated ML (AutoML)
+Entrena modelos automáticamente
+
+Selecciona algoritmos
+
+Ajusta hiperparámetros
+
+Evalúa métricas
+
+Ideal para principiantes y para acelerar experimentos.
+
+Azure ML Designer
+Interfaz visual
+
+Arrastrar y soltar
+
+Entrenamiento sin código
+
+📝 Preguntas tipo examen (Módulo 2)
+¿Qué tipo de ML requiere datos etiquetados?
+
+¿Qué tipo de ML se usa para clustering?
+
+¿Qué servicio de Azure permite entrenar modelos sin escribir código?
+
+¿Qué es la inferencia?
+
+¿Qué herramienta de Azure automatiza el entrenamiento de modelos?
+
+✔️ Resumen del módulo
+ML permite aprender patrones a partir de datos
+
+Hay tres tipos principales: supervisado, no supervisado y refuerzo
+
+Azure ML ofrece herramientas para entrenar, automatizar y desplegar modelos
+
+AutoML y Designer permiten entrenar sin código
+
 ### Tipos de ML
 - Supervisado  
 - No supervisado  
