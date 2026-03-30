@@ -1,0 +1,152 @@
+# AI‑900 — Azure AI Fundamentals  
+Guía de estudio, notas técnicas y preparación para el examen oficial.
+
+---
+
+## 📌 Índice
+
+1. Información general del examen  
+2. Objetivos de aprendizaje  
+3. Módulo 1 — Introducción a la IA  
+4. Módulo 2 — Machine Learning  
+5. Módulo 3 — Computer Vision  
+6. Módulo 4 — NLP y Azure OpenAI  
+7. Módulo 5 — IA Responsable  
+8. Preguntas tipo examen  
+9. Checklist final  
+10. Recursos oficiales  
+
+---
+
+# 1. Información general del examen
+
+**Código:** AI‑900  
+**Duración:** 60–90 minutos  
+**Formato:** Preguntas tipo test  
+**Nivel:** Fundamental  
+**Requisitos previos:** Ninguno  
+**Objetivo:** Validar conocimientos básicos de IA y servicios de Azure relacionados.
+
+---
+
+# 2. Objetivos de aprendizaje
+
+El examen evalúa tu capacidad para:
+
+- Comprender conceptos básicos de IA  
+- Diferenciar tipos de Machine Learning  
+- Identificar casos de uso de IA  
+- Conocer los servicios de IA en Azure  
+- Entender principios de IA responsable  
+
+---
+
+# 3. Módulo 1 — Introducción a la IA
+
+### Conceptos clave
+- ¿Qué es la Inteligencia Artificial?  
+- IA vs ML vs Deep Learning  
+- Casos de uso comunes  
+
+### Servicios de Azure relacionados
+- Azure AI Services  
+- Azure Machine Learning  
+- Azure OpenAI  
+
+---
+
+# 4. Módulo 2 — Machine Learning
+
+### Tipos de ML
+- Supervisado  
+- No supervisado  
+- Reforzamiento  
+
+### Conceptos importantes
+- Dataset  
+- Entrenamiento  
+- Validación  
+- Inferencia  
+
+### Servicios de Azure
+- Azure Machine Learning  
+- Automated ML  
+- Designer  
+
+---
+
+# 5. Módulo 3 — Computer Vision
+
+### Capacidades
+- Clasificación de imágenes  
+- Detección de objetos  
+- OCR  
+- Análisis facial  
+
+### Servicios de Azure
+- Vision Studio  
+- Computer Vision API  
+- Custom Vision  
+
+---
+
+# 6. Módulo 4 — NLP y Azure OpenAI
+
+### Capacidades
+- Análisis de texto  
+- Traducción  
+- Reconocimiento de voz  
+- Chatbots  
+- Modelos generativos (GPT, embeddings)
+
+### Servicios de Azure
+- Language Studio  
+- Speech Studio  
+- Azure OpenAI Service  
+
+---
+
+# 7. Módulo 5 — IA Responsable
+
+### Principios
+- Equidad  
+- Fiabilidad  
+- Privacidad  
+- Transparencia  
+- Inclusión  
+- Responsabilidad  
+
+### Herramientas
+- Responsible AI Dashboard  
+- Interpretabilidad de modelos  
+
+---
+
+# 8. Preguntas tipo examen
+
+1. ¿Qué tipo de ML se usa para clasificar correos como spam/no spam?  
+2. ¿Qué servicio de Azure permite entrenar modelos sin escribir código?  
+3. ¿Qué servicio usarías para OCR?  
+4. ¿Qué principio de IA responsable se relaciona con evitar sesgos?  
+
+*(Añadirás más mientras estudias)*
+
+---
+
+# 9. Checklist final
+
+- [ ] Conozco los tipos de ML  
+- [ ] Identifico casos de uso de IA  
+- [ ] Sé qué servicio de Azure usar en cada escenario  
+- [ ] Entiendo los principios de IA responsable  
+- [ ] He hecho ejercicios en Azure AI Studio  
+- [ ] He repasado preguntas tipo examen  
+
+---
+
+# 10. Recursos oficiales
+
+- Microsoft Learn — AI‑900  
+- Documentación de Azure AI Services  
+- Azure OpenAI Service  
+- Responsible AI resources  
